@@ -13,15 +13,15 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://support.bloxstreet.com",
+  url: "https://zimo-gu.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/islandshotel/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "bloxstreet", // Usually your GitHub org/user name.
-  projectName: "support", // Usually your repo name.
+  organizationName: "zimo-gu", // Usually your GitHub org/user name.
+  projectName: "islandshotel", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
