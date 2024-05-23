@@ -8,8 +8,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "BloxStreet Support",
-  tagline: "All there is to know about BloxStreet",
+  title: "Islands Corporation",
+  tagline: "All there is to know about Islands Corporation",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -101,7 +101,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BloxStreet. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Islands Corporation. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
