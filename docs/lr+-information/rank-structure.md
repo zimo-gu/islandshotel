@@ -8,41 +8,39 @@ sidebar_class_name: LR+ Information
 
 :::info
 
-You can find a comprehensive list of BloxStreet's ranks and their descriptions below.
+You can find a comprehensive list of Islands Corporation's ranks and their descriptions below.
 
 :::
 
-### <font color="#00FFFF">Customer</font>
-- Holds the lowest rank within the group and are regular players who have the ability to shop at the store, make purchases, and request items from staff members
+### <font color="#00FFFF">Hotel Guest</font>
+- Holds the lowest rank within the group and are regular players who have the ability to enter the hotel, make purchases, and request rooms from staff members
 
-### <font color="#ff0066">Noted Customer</font>
+### <font color="#ff0066">Honoured Guest</font>
 
 
-- Individuals who have made noteworthy contributions to BloxStreet in various capacities, such as former SHRs, developers, and graphic designers
+- Individuals who have made noteworthy contributions to Islands Corporation in various capacities, such as former SHRs, developers, and graphic designers
 - Not attainable by regular members
 
-### <font color="#FFD300">Trainee Team Member</font>
+### <font color="#FFD300">Awaiting Training</font>
 - LR rank
 - Newly recruited staff members who have successfully completed the quiz but are not yet fully trained
-- Permitted to work in all store departments, assist in restocking empty shelves, and clean spills
 - Must attend and satisfactorily complete a training session to be promoted
 
-### <font color="#FFD300">Junior Team Member</font>
+### <font color="#FFD300">Junior Staff Member</font>
 - LR rank
 - Staff members who have successfully attended and passed one training session
-- Permitted to work in all store departments, restock empty shelves, and clean spills
-- Have the opportunity to cuff shoplifters by purchasing cuffs
+- Permitted to work in all departments, check in, and work at the cafe
 - Must attend and satisfactorily complete a training session to be promoted
 
-### <font color="#FFD300">Senior Team Member</font>
+### <font color="#FFD300">Senior Staff Member</font>
 - LR rank
 - Staff members who have successfully attended and passed two training sessions
-- Permitted to work in all store departments, restock empty shelves, and clean spills
-- Must attend and satisfactorily complete a training session to be promoted
+- Permitted to work in all departments, check in, and work at the cafe
+- Must be noticed by a shift host, or an corporate outside of a shift to be promoted
 
-### <font color="#E27602">Department Supervisor</font> 
-- MR rank
-- Staff members who have attended and passed three training sessions or have earned 500 points
+### <font color="#E27602">Head Staff Member</font> 
+- LR rank
+- Staff members who have been noticed by corporate+ 
 - Responsible for working in all departments and delivering exceptional customer service
 - Expected to assist with restocking items and cleaning spills
 - Must be noticed by a shift host, an SHR outside of a shift, or earn 800 points in total to be promoted
